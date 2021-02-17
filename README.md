@@ -1,3 +1,3 @@
 # Web-Scraping 
 
-using Scrapy and Selenium
+using BeautifulSoup , Scrapy and Selenium 
